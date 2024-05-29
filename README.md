@@ -1,4 +1,39 @@
-## Hi there 👋
+<h2 align="center">TRUEMILLER</h2> 
+Full-stack web3 developer.
+
+<h3 align="center">
+  Skills
+</h3>
+
+#### Javascript
+- Typescript
+- NodeJS, ts-node
+- React, NextJS (page & app router)
+- Electron
+- Express, Fastify
+- REST, WebSockets
+- Prisma
+
+#### Web3
+- Ethers, Web3.js, Viem
+- Solidity (intermediate)
+- Hardhat, Tenderly
+- (Arbitrage, MEV experience)
+
+#### Databases
+- mySQL, PostgresSQL
+- Redis, KV
+
+#### Cloud
+- AWS, GCP, DigitalOcean
+- Vercel
+
+...
+
+
+
+
+
 
 <!--
 **truemiller/truemiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
