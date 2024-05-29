@@ -1,7 +1,7 @@
-<h2 align="center">TRUEMILLER</h2> 
+<h2>TRUEMILLER</h2> 
 Full-stack web3 developer.
 
-<h3 align="center">
+<h3>
   Skills
 </h3>
 
