@@ -24,6 +24,7 @@ A full-stack software engineer, currently working with [Valory](https://valory.x
   - AWS: Amplify, S3, EC2, ECS, RDS, Route53, CloudFront, Lambda
   - GCP: Cloud Run, Cloud Build, Buckets
   - Digital Ocean: Droplets, Apps, Functions
+  - Serverless: Serverless CLI
 - OS: Windows, Linux (GNOME distros), MacOS
 - CSS Libraries: Tailwind, DaisyUI
 - Component Libraries: ShadCN, Antd
