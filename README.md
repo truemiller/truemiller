@@ -26,6 +26,7 @@ A full-stack software engineer, currently working with [Valory](https://valory.x
   - Digital Ocean: Droplets, Apps, Functions
   - Serverless: Serverless CLI
 - OS: Windows, Linux (GNOME distros), MacOS
+- SASS
 - CSS Libraries: Tailwind, DaisyUI
 - Component Libraries: ShadCN, Antd
 - Google: GA4, Tag Manager, Search Console
