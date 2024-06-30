@@ -3,6 +3,7 @@
 A full-stack software engineer, currently working with [Valory](https://valory.xyz) on [Olas](https://olas.network).
 
 <h3>What I regularly use</h3>
+
 - IDE: VSCode
 - Javasript: ES6, Typescript
 - Frontend: NextJS (page & app router), React
@@ -40,6 +41,7 @@ A full-stack software engineer, currently working with [Valory](https://valory.x
 - Registars: Namecheap, Porkbun
 
 <h3>What I occasionally use</h3>
+
 - EVM Smart Contracts: Solidity
 - Alchemy, QuikNode
 - Data caching: Redis, KV
@@ -53,9 +55,11 @@ A full-stack software engineer, currently working with [Valory](https://valory.x
 - Multisigs: Gnosis Safe
 
 <h3>What I'm learning</h3>
+
 - Jotai, Zustand, Framer Motion, Aceternity
 
 <h3>What I regularly used in the past</h3>
+
 - WordPress: Open LiteSpeed, Caching, W3 Engine, Yoast, Rank Math, ...
 - C#: ASP.net, DevExpress
 - PHP: Laravel
@@ -66,6 +70,7 @@ A full-stack software engineer, currently working with [Valory](https://valory.x
 - Uniswap SDK
 
 <h3>What I have some experience with</h3>
+
 - Rust
 - Java
 - DEX Arbitrage, MEV
@@ -86,6 +91,7 @@ A full-stack software engineer, currently working with [Valory](https://valory.x
 - Figma
 
 <h3>Who I've worked with</h3>
+
 - Larger companies: 
   - [PwC](https://pwc.co.uk) (technology risk, emerging technologies, full-stack development, AI, BI)
   - [Ava Labs](https://avalabs.org) (UI engineer on Core and Subnets Explorer)
