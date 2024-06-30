@@ -1,11 +1,16 @@
-<h2>TRUEMILLER</h2> 
-Full-stack web3 developer.
+<h2>Josh Miller</h2> 
 
-<h3>
-  Skills
-</h3>
+Senior full-stack developer currently working in Web3.
 
-#### Javascript
+<h3>Frontend Technologies</h3>
+![JS](https://github.com/truemiller/truemiller/assets/31908788/1c2729fe-59f1-43b3-ace4-bfb8f7ea1649 | width=100)
+![TS](https://github.com/truemiller/truemiller/assets/31908788/6a1c9fb6-5c67-4c0e-908f-936dc55df572 | width=100)
+![NodeJS](https://github.com/truemiller/truemiller/assets/31908788/1fe2ac0f-4bea-4eb1-afe8-5c745e8b1d83 | width=100)
+![React](https://github.com/truemiller/truemiller/assets/31908788/dc3f84a9-f1b2-44fa-bef2-93406a17fe0f | width=100)
+![NodeJS](https://github.com/truemiller/truemiller/assets/31908788/680c1b3f-e79a-41df-9b23-e1df20a9db74 | width=100)
+
+
+#### Languages
 - Typescript
 - NodeJS, ts-node
 - React, NextJS (page & app router)
