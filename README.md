@@ -96,10 +96,10 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **AVME** (content creation, whitepaper)
 - **[Penguin Finance](https://penguin.finance)** (content creation)
 - **Rome Blockchain** (podcast feature)
-- **Pangolin Exchange** (podcast feature, podcast host, SEO audit)
-- **Yield Yak** (content creation, content marketing)
+- **[Pangolin Exchange](https://pangolin.exchange)** (podcast feature, podcast host, SEO audit)
+- **[Yield Yak](https://yieldyak.com)** (content creation, content marketing)
 - **Avaware** (advisor, business development, content creation)
-- **Elk Finance** (bridge analytics dashboard)
+- **[Elk Finance](https://elk.finance)** (bridge analytics dashboard)
   
 </details>
 
