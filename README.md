@@ -49,7 +49,8 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Graph**: GraphQL, The Graph
 - **Payments**: Paypal SDK, Paypal API
 - **Automation**: Zapier, IFTTT
-  
+- **Node Providers**: QuickNode, Alchemy
+   
 </details>
 <details>
  <summary><h4>Learning to use</h4></summary>
