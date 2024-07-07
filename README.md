@@ -49,6 +49,7 @@ Currently Senior Frontend Engineer at [Valory](https://valory.xyz) -- the core c
 **State management**: Redux
 
 <h3>👴 Tools I've used in the past 👴</h3>
+
 **PHP**: Laravel, Web3p
 **Python**: Backtesting.py, Pandas, Numpy, web3.py, Flask
 **Javascript Frameworks**: Vue, Angular.js (v1)
