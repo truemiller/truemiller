@@ -9,14 +9,14 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Frontend**: NextJS (page and app router, SSR, SSG), React
 - **State management**: Context API, Jotai, Zustand
 - **Styling**: Tailwind, SASS, Styled Components
-- **Component libraries**: ShadCN / Material UI / Antd
+- **Component libraries**: ShadCN, Antd
 - **Validation**: Zod
 - **Web3 libraries**: Viem, Wagmi, Ethers.js
 - **Backend**: NextJS (server actions or API routing), Node, Bun
 - **ORM**: Prisma
 - **Databases**: Postgres (or any SQL-based relational database)
 - **CI**: Github Actions
-- **Cloud**: Cloudflare, AWS, GCP, Digital Ocean, Vercel, Coolify, Hetzner
+- **Cloud**: Cloudflare, Coolify, Hetzner, Vercel
 - **Containerization**: Docker
 - **Analytics**: Google Analytics, Google Search Console, Google Tag Manager
 - **SEO**: Ahrefs, Semrush, Screaming Frog, Lighthouse, JSON-LD Schema
@@ -53,7 +53,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 
 - **PHP**: Laravel, Web3p
 - **Python**: Backtesting.py, Pandas, Numpy, web3.py, Flask
-- **Javascript Frameworks**: Vue, Angular.js (v1)
+- **Javascript**: Vue, Angular.js (v1), Material UI, Bootstrap React
 - **C#**: ASP.net, Unity
 - **TradingView**: Pinescript
 - **Kali**: Metasploit, ExploitDB, Nmap, Nikto, Burp, John, Hashcat, SQLMap, WPScan, Dirb, Mimikats, Bloodhound
