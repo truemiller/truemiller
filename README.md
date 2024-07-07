@@ -110,14 +110,14 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[Crypto Wallets](https://cryptowallets.gg)**: programmatic crypto wallet review site
 - **[Chain Compare](https://chain.compare)**: programmatic blockchain comparison/review site
 - **[Minting Tools](https://minting.tools)**: no-code ERC20 contract deployer
-- **[IM Tools](https://im.tools)**: free tools to support internet marketers
 - **[Exchanges](https://exchanges.gg)**: programmatic crypto exchange review site
 
 <h4>Coming Soon</h4>
 
-- [Discord Monster](https://discord.monster): discord community hub; reviews, advertisement, product listings
-- RPC Info (v2): much improved upgrade for RPC Info
-- Web3 Reviews: review site for web3 products, services, communities
+- **[Discord Monster](https://discord.monster)**: discord community hub; reviews, advertisement, product listings
+-** RPC Info (v2)**: much improved upgrade for RPC Info
+- **Web3 Reviews**: review site for web3 products, services, communities
+- **[IM Tools](https://im.tools)**: free tools for internet marketers
 - ...
 
 <h4>Past projects (RIP)</h4>
