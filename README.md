@@ -32,7 +32,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Version control**: Git, Github
   
 </details>
-
 <details>
  <summary><h4>Occasional use</h4></summary>
  
@@ -52,7 +51,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Automation**: Zapier, IFTTT
   
 </details>
-
 <details>
  <summary><h4>Learning to use</h4></summary>
  
@@ -60,7 +58,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **State management**: Redux
   
 </details>
-
 <details>
  <summary><h4>Used in the past</h4></summary> 
  
@@ -90,7 +87,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX design)
   
 </details>
-
 <details>
  <summary><h4>Short-term (contract work, freelance)</h4></summary>
   
