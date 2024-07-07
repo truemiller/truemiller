@@ -115,9 +115,9 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 <h4>Coming Soon</h4>
 
 - **[Discord Monster](https://discord.monster)**: discord community hub; reviews, advertisement, product listings
--** RPC Info (v2)**: much improved upgrade for RPC Info
-- **Web3 Reviews**: review site for web3 products, services, communities
 - **[IM Tools](https://im.tools)**: free tools for internet marketers
+- **RPC Info (v2)**: much improved upgrade for RPC Info
+- **Web3 Reviews**: review site for web3 products, services, communities
 - ...
 
 <h4>Past projects (RIP)</h4>
