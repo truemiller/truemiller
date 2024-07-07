@@ -39,7 +39,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Serverless**: Serverless Framework and CLI, Lambda, Digital Ocean Functions
 - **AWS**: S3, EC2, Route53, CloudFront, ECS, SES, RDS
 - **GCP**: Cloud Run, Cloud Build
-- **Smart Contracts**: Hardhat, Tenderly, Mocha, Chai
+- **Smart Contracts**: Solidity, Hardhat, Tenderly, Mocha, Chai
 - **Styling**: Styled Components, LESS
 - **Animation**: React Spring, Framer Motion
 - **AI**: OpenAI API, Anthropic API, AWS Bedrock
