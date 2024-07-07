@@ -135,3 +135,11 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Crypto Jobs**: a free crypto jobs site
 - **Nerd Jobs**: a technology-focussed jobs site
 - ... and many more
+
+<h3>Other interests</h3>
+
+- **Algorithmic Trading**: DEX Arbitrage, MEV front-running, WebSocket bots
+- **Content marketing**: copywriting, advertorials, video marketing
+- **Music production, sound engineering**: FL Studio, Audacity
+- **Video production**: Camtasia, Adobe Premiere Pro
+  
