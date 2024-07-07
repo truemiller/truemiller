@@ -4,7 +4,8 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 
 <h3>🧰 Tools 🧰</h3>
 
-<h4>💪 What I regularly use 💪</h4>
+<details>
+ <summary><h4>💪 What I regularly use 💪</h4></summary>
 
 - **Frontend**: NextJS (page and app router, SSR, SSG), React
 - **State management**: Context API, Jotai, Zustand
@@ -27,7 +28,10 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Desktop apps**: Electron
 - **Version control**: Git, Github
 
-<h4>➕ What I occasionally use ➕</h4>
+</details>
+
+<details>
+ <summary><h4>➕ What I occasionally use ➕</h4></summary>
 
 - **Redis**: Redis.io, KV
 - **Serverless**: Serverless Framework and CLI, Lambda, Digital Ocean Functions
@@ -43,14 +47,18 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Graph**: GraphQL, The Graph
 - **Payments**: Paypal SDK, Paypal API
 - **Automation**: Zapier, IFTTT
+  
+</details>
 
-<h4>🤓 What I'm learning to use 🤓</h4>
-
+<details>
+ <summary><h4>🤓 What I'm learning to use 🤓</h4></summary>
 - **AI**: Function calling, RAG
 - **State management**: Redux
+</details>
 
-<h4>👴 What I used in the past 👴</h4>
-
+<details>
+ <summary><h4>👴 What I used in the past 👴</h4></summary>
+ 
 - **PHP**: Laravel, Web3p
 - **Python**: Backtesting.py, Pandas, Numpy, web3.py, Flask
 - **Javascript**: Vue, Angular.js (v1), Material UI, Bootstrap React
@@ -62,17 +70,24 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **BI**: PowerBI, QlikSense, Tableau, Alteryx
 - **Web3 Libraries**: Uniswap SDK
 - **Rust**: Tokio, Ethers-rs, Cargo
+- **Java**
+
+</details>
 
 <h3>🤝 Who I've worked with 🤝</h3>
 
-<h4>Long-term (multi-year)</h4>
+<details>
+ <summary><h4>Long-term (multi-year)</h4></summary>
 
 - **[Valory](https://valory.xyz)** (senior web3 frontend engineer, [Olas](https://olas.network) core contributor)
 - **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer on [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
 - **[Elk Finance](https://elk.finance)** (junior web3 frontend engineer, business development, content creation)
 - **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX design)
 
-<h3>Short-term (contract work, freelance)</h3>
+</details>
+
+<details>
+ <summary><h4>Short-term (contract work, freelance)</h4>
 
 - **[Teddy Cash](https://teddy.cash)** (strategic advice, business development, frontend contributions, content creation)
 - **[Lydia Finance](http://lydia.finance)** (content creation)
@@ -82,7 +97,9 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Pangolin Exchange** (podcast feature, podcast host, SEO audit)
 - **Yield Yak** (content creation, content marketing)
 - **Avaware** (advisor, business development, content creation)
- 
+
+</details>
+
 <h3>👨‍🏭 My projects 👨‍🏭</h3>
 
 <h4>⚡ Live ⚡</h4>
@@ -110,4 +127,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Crypto Trading Ninja**: coingecko alternative for traders
 - **Captain API**: API service for numerous different APIs
 - **Compounder**: EVM yield farm compounder with referral rewards
+- **Crypto Jobs**: a free crypto jobs site
+- **Nerd Jobs**: a technology-focussed jobs site
 - ... and many more
