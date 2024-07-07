@@ -27,7 +27,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **OS**: Windows, Ubuntu, Debian, MacOS
 - **Desktop apps**: Electron
 - **Version control**: Git, Github
-- 
+  
 </details>
 
 <details>
