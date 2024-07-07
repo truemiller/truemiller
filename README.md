@@ -2,7 +2,7 @@
 
 Full-stack software engineer, web3 frontend engineer, indie hacker.
 
-<h3>Tools</h3>
+<h3>🧰 Tools 🧰</h3>
 
 <h4>💪 What I regularly use 💪</h4>
 
