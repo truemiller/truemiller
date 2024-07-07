@@ -89,7 +89,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 </details>
 
 <details>
- <summary><h4>Short-term (contract work, freelance)</h4>
+ <summary><h4>Short-term (contract work, freelance)</h4></summary>
   
 - **[Teddy Cash](https://teddy.cash)** (strategic advice, business development, frontend contributions, content creation)
 - **[Lydia Finance](http://lydia.finance)** (content creation)
@@ -99,6 +99,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Pangolin Exchange** (podcast feature, podcast host, SEO audit)
 - **Yield Yak** (content creation, content marketing)
 - **Avaware** (advisor, business development, content creation)
+- **Elk Finance** (bridge analytics dashboard)
   
 </details>
 
