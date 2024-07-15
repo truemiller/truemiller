@@ -20,8 +20,8 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **ORM**: Prisma
 - **Databases**: Postgres (or any SQL-based relational database)
 - **CI**: Github Actions
-- **Cloud**: Cloudflare, Coolify, Hetzner, Vercel
-- **Containerization**: Docker
+- **Cloud**: Cloudflare, Hetzner, Vercel, AWS
+- **Containers**: Docker, Docker Compose, Coolify
 - **Analytics**: Google Analytics, Google Search Console, Google Tag Manager
 - **SEO**: Ahrefs, Semrush, Screaming Frog, Lighthouse, JSON-LD Schema
 - **Testing**: Jest
