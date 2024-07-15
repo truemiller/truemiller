@@ -80,7 +80,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 <h3>🤝 Who I've worked with</h3>
 
 <details>
- <summary><h4>Long-term (multi-year)</h4></summary>
+ <summary><h4>Full-time</h4></summary>
  
 - **[Valory](https://valory.xyz)** (senior web3 frontend engineer, [Olas](https://olas.network) core contributor)
 - **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer on [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
