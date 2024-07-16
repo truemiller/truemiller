@@ -123,8 +123,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 
 <h4>Past projects (RIP)</h4>
 
-- **True Miller (YouTube)**: YouTube channel on web3 topics
-- **Avalanche Today**: an Avalanche blockchain news site (co-owner, editor, networked with numerous PR clients)
+- **Avalanche Today**: Avalanche blockchain news site (co-owner, editor, networked with numerous PR clients)
 - **BOOM**: memecoin with staking contracts, auto-compounding contracts, LP zap contracts
 - **BOGA Studios**: AI NFTs, with minting contracts
 - **AlterLister**: software alternative recommendation site
@@ -135,6 +134,8 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Crypto Jobs**: a free crypto jobs site
 - **Nerd Jobs**: a technology-focussed jobs site
 - ... and many more
+
+Will open source aspects of these projects as time allows.
 
 <h3>Other interests</h3>
 
