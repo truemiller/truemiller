@@ -30,6 +30,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **OS**: Windows, Ubuntu, Debian, MacOS
 - **Desktop apps**: Electron
 - **Version control**: Git, Github
+- **Graph**: GraphQL, The Graph
   
 </details>
 <details>
@@ -39,14 +40,13 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Serverless**: Serverless Framework and CLI, Lambda, Digital Ocean Functions
 - **AWS**: S3, EC2, Route53, CloudFront, ECS, SES, RDS
 - **GCP**: Cloud Run, Cloud Build
-- **Smart Contracts**: Solidity, Hardhat, Tenderly, Mocha, Chai
+- **Smart Contract Development**: Solidity, Hardhat, Mocha, Chai
 - **Styling**: Styled Components, LESS
 - **Animation**: React Spring, Framer Motion
 - **AI**: OpenAI API, Anthropic API, AWS Bedrock
 - **CMS**: Directus
 - **API testing**: Postman
 - **WebSockets**: node:ws, socket.io
-- **Graph**: GraphQL, The Graph
 - **Payments**: Paypal SDK, Paypal API
 - **Automation**: Zapier, IFTTT
 - **Node Providers**: QuickNode, Alchemy
@@ -138,8 +138,11 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 Will open source aspects of these projects as time allows.
 
 <h3>Other interests</h3>
+<h4>Current</h4>
+- **Building websites**: ...
 
-- **Algorithmic Trading**: DEX Arbitrage, MEV front-running, WebSocket bots
+<h4>Past</h4>
+- **Algorithmic Trading**: DEX Arbitrage, Blockchain MEV, WebSocket bots
 - **Content marketing**: copywriting, advertorials, video marketing
 - **Music production, sound engineering**: FL Studio, Audacity
 - **Video production**: Camtasia, Adobe Premiere Pro
