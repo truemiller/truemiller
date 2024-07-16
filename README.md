@@ -138,10 +138,13 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 Will open source aspects of these projects as time allows.
 
 <h3>Other interests</h3>
+
 <h4>Current</h4>
+
 - **Building websites**: ...
 
 <h4>Past</h4>
+
 - **Algorithmic Trading**: DEX Arbitrage, Blockchain MEV, WebSocket bots
 - **Content marketing**: copywriting, advertorials, video marketing
 - **Music production, sound engineering**: FL Studio, Audacity
