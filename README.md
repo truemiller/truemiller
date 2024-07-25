@@ -16,7 +16,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Component libraries**: ShadCN, Antd
 - **Validation**: Zod
 - **Web3 libraries**: Viem, Wagmi, Ethers.js
-- **Backend**: NextJS (server actions or API routing), Node, Bun
+- **Backend**: NextJS (server actions or API routing), Node
 - **ORM**: Prisma
 - **Databases**: Postgres (or any SQL-based relational database)
 - **CI**: Github Actions
@@ -57,6 +57,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
  
 - **AI**: Function calling, RAG
 - **State management**: Redux
+- Bun, Hono
   
 </details>
 <details>
