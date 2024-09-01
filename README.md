@@ -1,6 +1,6 @@
 <h2>Josh Miller</h2> 
 
-[LinkedIn](https://linkedin.com/in/truemiller) | [Website](https://truemiller.com) | [Twitter](https://twitter.com/truemiller_com) | [Email](mailto://josh@truemiller.com)
+[LinkedIn](https://linkedin.com/in/truemiller) | [Website](https://truemiller.com) | [Email](mailto://josh@truemiller.com)
 
 Full-stack software engineer, web3 frontend engineer, indie hacker.
 
