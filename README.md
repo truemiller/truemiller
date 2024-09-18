@@ -86,12 +86,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[Valory](https://valory.xyz)** (senior web3 frontend engineer, [Olas](https://olas.network) core contributor)
 - **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer on [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
 - **[Elk Finance](https://elk.finance)** (junior web3 frontend engineer, business development, content creation)
-- **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX design)
-  
-</details>
-<details>
- <summary><h4>Short-term (contract work, freelance)</h4></summary>
-  
+- **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX design)  
 - **[Teddy Cash](https://teddy.cash)** (strategic advice, business development, frontend contributions, content creation)
 - **[Lydia Finance](http://lydia.finance)** (content creation)
 - **AVME** (content creation, whitepaper)
@@ -122,32 +117,18 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Web3 Reviews**: review site for web3 products, services, communities
 - ...
 
-<h4>Past projects (RIP)</h4>
-
-- **Avalanche Today**: Avalanche blockchain news site (co-owner, editor, networked with numerous PR clients)
-- **BOOM**: memecoin with staking contracts, auto-compounding contracts, LP zap contracts
-- **BOGA Studios**: AI NFTs, with minting contracts
-- **AlterLister**: software alternative recommendation site
-- **BEJO**: automated ebay abritrage business
-- **Crypto Trading Ninja**: coingecko alternative for traders
-- **Captain API**: API service for numerous different APIs
-- **Compounder**: EVM yield farm compounder with referral rewards
-- **Crypto Jobs**: a free crypto jobs site
-- **Nerd Jobs**: a technology-focussed jobs site
-- ... and many more
-
-Will open source aspects of these projects as time allows.
-
 <h3>Other interests</h3>
 
 <h4>Current</h4>
 
-- **Building websites**: ...
+- **Building apps, dApps, SaaS**
+- **Content creation**
+- **Video production**
+- **AI automation**
 
 <h4>Past</h4>
 
 - **Algorithmic Trading**: DEX Arbitrage, Blockchain MEV, WebSocket bots
-- **Content marketing**: copywriting, advertorials, video marketing
 - **Music production, sound engineering**: FL Studio, Audacity
 - **Video production**: Camtasia, Adobe Premiere Pro
   
