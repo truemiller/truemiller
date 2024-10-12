@@ -18,7 +18,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Web3 libraries**: Viem, Wagmi, Ethers.js
 - **Backend**: NextJS (server actions or API routing), Node
 - **ORM**: Prisma
-- **Databases**: Postgres (or any SQL-based relational database)
+- **Databases**: Postgres, MySQL
 - **CI**: Github Actions
 - **Cloud**: Cloudflare, Hetzner, Vercel, AWS
 - **Containers**: Docker, Docker Compose, Coolify
