@@ -4,7 +4,61 @@
 
 Full-stack software engineer, web3 frontend engineer, indie hacker.
 
+<h3>👨‍🏭 My projects</h3>
 
+<h4>Live</h4>
+
+- **[RPC Info](https://rpc.info)**: blockchain RPC aggregator
+- **[Chain Compare](https://chain.compare)**: programmatic blockchain comparison/review site
+- **[Minting Tools](https://minting.tools)**: no-code ERC20 contract deployer
+- **[Exchanges](https://exchanges.gg)**: programmatic crypto exchange review site
+- **[Crypto Wallets](https://cryptowallets.gg)**: programmatic crypto wallet review site
+
+<h4>Coming Soon</h4>
+
+- **[Discord Monster](https://discord.monster)**: discord community hub; reviews, advertisement, product listings
+- **[IM Tools](https://im.tools)**: free tools for internet marketers
+- **Web3 Reviews**: review site for web3 products, services, communities
+- ...
+
+<h3>🤝 Who I've worked with</h3>
+
+<details>
+ <summary><h4>Full-time</h4></summary>
+ 
+- **[Valory](https://valory.xyz)** (senior web3 frontend engineer, [Olas](https://olas.network) core contributor)
+- **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer on [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
+- **[Elk Finance](https://elk.finance)** (junior web3 frontend engineer, business development, content creation)
+- **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX design)  
+- **[Teddy Cash](https://teddy.cash)** (strategic advice, business development, frontend contributions, content creation)
+- **[Lydia Finance](http://lydia.finance)** (content creation)
+- **AVME** (content creation, whitepaper)
+- **[Penguin Finance](https://penguin.finance)** (content creation)
+- **Rome Blockchain** (podcast feature)
+- **[Pangolin Exchange](https://pangolin.exchange)** (podcast feature, podcast host, SEO audit)
+- **[Yield Yak](https://yieldyak.com)** (content creation, content marketing)
+- **Avaware** (advisor, business development, content creation)
+- **[Elk Finance](https://elk.finance)** (bridge analytics dashboard)
+  
+</details>
+
+
+
+<h3>Other interests</h3>
+
+<h4>Current</h4>
+
+- **Building apps, dApps, SaaS**
+- **Content creation**
+- **Video production**
+- **AI automation**
+
+<h4>Past</h4>
+
+- **Algorithmic Trading**: DEX Arbitrage, Blockchain MEV, WebSocket bots
+- **Music production, sound engineering**: FL Studio, Audacity
+- **Video production**: Camtasia, Adobe Premiere Pro
+  
 <h3>🧰 Tools, Languages, Skills</h3>
 
 <details>
@@ -78,58 +132,3 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Java**
   
 </details>
-
-<h3>🤝 Who I've worked with</h3>
-
-<details>
- <summary><h4>Full-time</h4></summary>
- 
-- **[Valory](https://valory.xyz)** (senior web3 frontend engineer, [Olas](https://olas.network) core contributor)
-- **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer on [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
-- **[Elk Finance](https://elk.finance)** (junior web3 frontend engineer, business development, content creation)
-- **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX design)  
-- **[Teddy Cash](https://teddy.cash)** (strategic advice, business development, frontend contributions, content creation)
-- **[Lydia Finance](http://lydia.finance)** (content creation)
-- **AVME** (content creation, whitepaper)
-- **[Penguin Finance](https://penguin.finance)** (content creation)
-- **Rome Blockchain** (podcast feature)
-- **[Pangolin Exchange](https://pangolin.exchange)** (podcast feature, podcast host, SEO audit)
-- **[Yield Yak](https://yieldyak.com)** (content creation, content marketing)
-- **Avaware** (advisor, business development, content creation)
-- **[Elk Finance](https://elk.finance)** (bridge analytics dashboard)
-  
-</details>
-
-<h3>👨‍🏭 My projects</h3>
-
-<h4>Live</h4>
-
-- **[RPC Info](https://rpc.info)**: blockchain RPC aggregator
-- **[Crypto Wallets](https://cryptowallets.gg)**: programmatic crypto wallet review site
-- **[Chain Compare](https://chain.compare)**: programmatic blockchain comparison/review site
-- **[Minting Tools](https://minting.tools)**: no-code ERC20 contract deployer
-- **[Exchanges](https://exchanges.gg)**: programmatic crypto exchange review site
-
-<h4>Coming Soon</h4>
-
-- **[Discord Monster](https://discord.monster)**: discord community hub; reviews, advertisement, product listings
-- **[IM Tools](https://im.tools)**: free tools for internet marketers
-- **RPC Info (v2)**: much improved upgrade for RPC Info
-- **Web3 Reviews**: review site for web3 products, services, communities
-- ...
-
-<h3>Other interests</h3>
-
-<h4>Current</h4>
-
-- **Building apps, dApps, SaaS**
-- **Content creation**
-- **Video production**
-- **AI automation**
-
-<h4>Past</h4>
-
-- **Algorithmic Trading**: DEX Arbitrage, Blockchain MEV, WebSocket bots
-- **Music production, sound engineering**: FL Studio, Audacity
-- **Video production**: Camtasia, Adobe Premiere Pro
-  
