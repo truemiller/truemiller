@@ -11,7 +11,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
  <summary><h4>Regular use</h4></summary>
  
 - **Frontend**: NextJS (page and app router, SSR, SSG), React
-- **State management**: Context API, Jotai, Zustand
+- **State management**: Context API, React Query
 - **Styling**: Tailwind, SASS, Styled Components
 - **Component libraries**: ShadCN, Antd
 - **Validation**: Zod
@@ -50,6 +50,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Payments**: Paypal SDK, Paypal API
 - **Automation**: Zapier, IFTTT
 - **Node Providers**: QuickNode, Alchemy
+- **React State Management**: Jotai, Zustand
    
 </details>
 <details>
