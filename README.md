@@ -40,8 +40,9 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **SONIC (AVAXRush)** (marketer, content creator, BD)
   
 </details>
-  
-<h3>🧰 Tools, Languages, Skills</h3>
+
+<details>
+ <summary><h3>🧰 Tools, Languages, Skills</h3></summary>
 
 <details>
  <summary><h4>Regular use</h4></summary>
@@ -113,4 +114,5 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Rust**: Tokio, Ethers-rs, Cargo
 - **Java**
   
+</details>
 </details>
