@@ -31,8 +31,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Web3 Reviews**: review site for web3 products, services, communities
 - ...
 
-<details>
- <summary><h3>🤝 Who I've worked with</h3></summary>
+<h3>🤝 Who I've worked with</h3>
  
 - **[Valory](https://valory.xyz)** (senior web3 frontend engineer &mdash; [Olas](https://olas.network), [Pearl](https://olas.network/operate))
 - **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer &mdash; [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
@@ -49,8 +48,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **Avaware** (advisor, business development, content creation)
 - **[Elk Finance](https://elk.finance)** (bridge analytics dashboard)
 - **SONIC (AVAXRush)** (marketer, content creator, BD)
-  
-</details>
 
 <h3>🧰 Tools, Languages, Skills</h3>
 
