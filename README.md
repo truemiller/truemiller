@@ -16,7 +16,8 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 
 <h4>Open-source repos</h4>
 
-- **[CoinGuesser](https://github.com/truemiller/coinguesser)**: crypto logo guessing game
+- **[CoinGuesser](https://github.com/truemiller/coinguesser)**: crypto logo guessing game, next.js app
+- **[LP Zapper](https://github.com/truemiller/lp-zapper)**: native gas to LP converter, solidity smart contract
 
 <h4>Coming Soon</h4>
 
