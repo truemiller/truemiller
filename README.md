@@ -32,7 +32,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[Lydia Finance](http://lydia.finance)** (content creation)
 - **AVME** (content creation, whitepaper)
 - **[Penguin Finance](https://penguin.finance)** (content creation)
-- **Rome Blockchain** (podcast feature)
+- **[ROME Blockchain](https://romeblockchain.com/)** (podcast feature)
 - **[Pangolin Exchange](https://pangolin.exchange)** (podcast feature, podcast host, SEO audit)
 - **[Yield Yak](https://yieldyak.com)** (content creation, content marketing)
 - **Avaware** (advisor, business development, content creation)
