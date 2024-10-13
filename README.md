@@ -39,23 +39,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[Elk Finance](https://elk.finance)** (bridge analytics dashboard)
   
 </details>
-
-
-
-<h3>Other interests</h3>
-
-<h4>Current</h4>
-
-- **Building apps, dApps, SaaS**
-- **Content creation**
-- **Video production**
-- **AI automation**
-
-<h4>Past</h4>
-
-- **Algorithmic Trading**: DEX Arbitrage, Blockchain MEV, WebSocket bots
-- **Music production, sound engineering**: FL Studio, Audacity
-- **Video production**: Camtasia, Adobe Premiere Pro
   
 <h3>🧰 Tools, Languages, Skills</h3>
 
