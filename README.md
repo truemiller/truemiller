@@ -17,7 +17,8 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 <h4>Open-source repos</h4>
 
 - **[CoinGuesser](https://github.com/truemiller/coinguesser)**: crypto logo guessing game, next.js app
-- **[LP Zapper](https://github.com/truemiller/lp-zapper)**: native gas to LP converter, solidity smart contract
+- **[LP Zapper](https://github.com/truemiller/lp-zapper)**: smart contract for native gas to LP conversion, solidity 
+- **[NFT contract with minting](https://github.com/truemiller/nft-contract-with-minting)**: smart contract for payable mintable NFT token drops, solidity
 
 <h4>Coming Soon</h4>
 
