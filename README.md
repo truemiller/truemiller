@@ -20,6 +20,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[LP Zapper](https://github.com/truemiller/lp-zapper)**: smart contract for native gas to LP conversion, solidity 
 - **[NFT contract with minting](https://github.com/truemiller/nft-contract-with-minting)**: smart contract for payable mintable NFT token drops, solidity
 - **[Rust Blockchain MEV Template](https://github.com/truemiller/rust-mev-template)**: starter template for parsing EVM mempool transactions via WebSockets
+- **[More...](https://github.com/truemiller?tab=repositories&q=&type=public&language=&sort=)**
 
 <h4>Coming Soon</h4>
 
