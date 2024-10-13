@@ -63,7 +63,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **SEO**: Ahrefs, Semrush, Screaming Frog, Lighthouse, JSON-LD Schema
 - **Testing**: Jest
 - **EVM Chain Forking**: Tenderly, Hardhat
-- **AI**: ChatGPT, Github Copilot, Claude
+- **AI**: OpenAI Platform API, ChatGPT, Claude, Github Copilot
 - **OS**: Windows, Ubuntu, Debian, MacOS
 - **Desktop apps**: Electron
 - **Version control**: Git, Github
