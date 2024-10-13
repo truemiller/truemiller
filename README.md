@@ -35,6 +35,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[ROME Blockchain](https://romeblockchain.com/)** (podcast feature)
 - **[Pangolin Exchange](https://pangolin.exchange)** (podcast feature, podcast host, SEO audit)
 - **[Yield Yak](https://yieldyak.com)** (content creation, content marketing)
+- **Avalanche Today** (editor, copywriter, BD, sales)
 - **Avaware** (advisor, business development, content creation)
 - **[Elk Finance](https://elk.finance)** (bridge analytics dashboard)
 - **SONIC (AVAXRush)** (marketer, content creator, BD)
