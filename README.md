@@ -14,6 +14,9 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[Exchanges](https://exchanges.gg)**: programmatic crypto exchange review site
 - **[Crypto Wallets](https://cryptowallets.gg)**: programmatic crypto wallet review site
 
+<h4>Open-source repos</h4>
+- **[CoinGuesser](truemiller/coinguesser)**: crypto logo guessing game
+
 <h4>Coming Soon</h4>
 
 - **[Discord Monster](https://discord.monster)**: discord community hub; reviews, advertisement, product listings
