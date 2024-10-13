@@ -24,10 +24,10 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 <details>
  <summary><h3>🤝 Who I've worked with</h3></summary>
  
-- **[Valory](https://valory.xyz)** (senior web3 frontend engineer, [Olas](https://olas.network) core contributor)
-- **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer on [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
-- **[Elk Finance](https://elk.finance)** (junior web3 frontend engineer, business development, content creation)
-- **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX design)  
+- **[Valory](https://valory.xyz)** (senior web3 frontend engineer &mdash; [Olas](https://olas.network), [Pearl](https://olas.network/operate))
+- **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer &mdash; [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
+- **[Elk Finance](https://elk.finance)** (junior web3 frontend engineer, business development, content creator &mdash; [ElkDex v2](https://app.elk.finance), [Elk Bridge Dashboard](https://dashboard.elk.finance))
+- **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX designer)
 - **[Teddy Cash](https://teddy.cash)** (strategic advice, business development, frontend contributions, content creation)
 - **[Lydia Finance](http://lydia.finance)** (content creation)
 - **AVME** (content creation, whitepaper)
