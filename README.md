@@ -37,6 +37,7 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[Yield Yak](https://yieldyak.com)** (content creation, content marketing)
 - **Avaware** (advisor, business development, content creation)
 - **[Elk Finance](https://elk.finance)** (bridge analytics dashboard)
+- **SONIC (AVAXRush)** (marketer, content creator, BD)
   
 </details>
   
