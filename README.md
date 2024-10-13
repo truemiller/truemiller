@@ -1,6 +1,8 @@
 <h2>Josh Miller</h2> 
 
-[LinkedIn](https://linkedin.com/in/truemiller) | [Website](https://truemiller.com) | [Email](mailto://josh@truemiller.com)
+[![True Miller LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://linkedin.com/in/truemiller)
+[![True Miller Email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=red&color=white)](mailto://josh@truemiller.com)
+
 
 Full-stack software engineer, web3 frontend engineer, indie hacker.
 
