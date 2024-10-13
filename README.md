@@ -33,9 +33,9 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 
 <h3>🤝 Who I've worked with</h3>
  
-- **[Valory](https://valory.xyz)** (senior web3 frontend engineer &mdash; [Olas](https://olas.network), [Pearl](https://olas.network/operate))
+- **[Valory](https://valory.xyz)** (sen web3 frontend engineer &mdash; [Olas](https://olas.network), [Pearl](https://olas.network/operate))
 - **[Ava Labs](https://avalabs.org)** (mid web3 frontend engineer &mdash; [Core](https://core.app) and [Subnets Explorer](https://subnets.avax.network))
-- **[Elk Finance](https://elk.finance)** (junior web3 frontend engineer, business development, content creator &mdash; [ElkDex v2](https://app.elk.finance), [Elk Bridge Dashboard](https://dashboard.elk.finance))
+- **[Elk Finance](https://elk.finance)** (jun web3 frontend engineer, BD, content creator &mdash; [ElkDex v2](https://app.elk.finance), [Bridge Dashboard](https://dashboard.elk.finance))
 - **[PwC](https://pwc.co.uk)** (senior assiociate, full-stack developer, AI, BI, ETL, UI/UX designer)
 - **[Teddy Cash](https://teddy.cash)** (strategic advice, business development, frontend contributions, content creation)
 - **[Lydia Finance](http://lydia.finance)** (content creation)
