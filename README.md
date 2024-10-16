@@ -14,7 +14,6 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 - **[Chain Compare](https://chain.compare)**: programmatic blockchain comparison/review site
 - **[Minting Tools](https://minting.tools)**: no-code ERC20 contract deployer
 - **[Exchanges](https://exchanges.gg)**: programmatic crypto exchange review site
-- **[Crypto Wallets](https://cryptowallets.gg)**: programmatic crypto wallet review site
 
 <h4>Open-source repos</h4>
 
@@ -26,8 +25,9 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 
 <h4>Coming Soon</h4>
 
-- **[Discord Monster](https://discord.monster)**: discord community hub; reviews, advertisement, product listings
-- **[IM Tools](https://im.tools)**: free tools for internet marketers
+- **[Discord.monster](https://discord.monster)**: discord community hub; reviews, advertisement, product listings
+- **[IM.tools](https://im.tools)**: free tools for internet marketers
+- **[Convert.my](https://convert.my)**: free file/code converters
 - **Web3 Reviews**: review site for web3 products, services, communities
 - ...
 
