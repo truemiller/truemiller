@@ -10,10 +10,10 @@ Full-stack software engineer, web3 frontend engineer, indie hacker.
 
 <h4>Live</h4>
 
-- **[RPC Info](https://rpc.info)**: blockchain RPC aggregator
-- **[Chain Compare](https://chain.compare)**: programmatic blockchain comparison/review site
-- **[Minting Tools](https://minting.tools)**: no-code ERC20 contract deployer
-- **[Exchanges](https://exchanges.gg)**: programmatic crypto exchange review site
+- **[RPC.info](https://rpc.info)**: blockchain RPC aggregator
+- **[Chain.compare](https://chain.compare)**: programmatic blockchain comparison/review site
+- **[Minting.tools](https://minting.tools)**: no-code ERC20 contract deployer
+- **[Exchanges.gg](https://exchanges.gg)**: programmatic crypto exchange review site
 
 <h4>Open-source repos</h4>
 
