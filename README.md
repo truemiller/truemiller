@@ -25,12 +25,13 @@ full-stack software engineer
 - [CoinGuesser](https://github.com/truemiller//coinguesser) — basic crypto logo guessing game (nextjs)
 - [LP Zapper](https://github.com/truemiller//lp-zapper) — convert native Ether to Uniswap V2 LP (solidity)
 - [Mintable NFT contract with fees](https://github.com/truemiller/nft-contract-with-minting) — sell NFTs, on-chain (solidity, hardhat)
-- [Rust blockchain MEV template] — basic websocket template for reading mempool txs (rust, tokio, ethers-rs)
-- [Backtesting.py strategies] — backtesting some trading strategies on ByBit spot OHLCV data (Python)
+- [Rust blockchain MEV template](https://github.com/truemiller/rust-mev-template) — basic websocket template for reading mempool txs (rust, tokio, ethers-rs)
+- [Backtesting.py strategies](https://github.com/truemiller/python-backtesting) — backtesting some trading strategies on ByBit spot OHLCV data (Python)
 - [more ...](https://github.com/truemiller?page=1&tab=repositories)
 
-**some things i'll launch soon**
+i've quite a few projects i'd love to share, mostly web3 based, will release over time, once sanitized
 
+**some things i'll launch soon**
 
 - IM.tools — Free tools for internet marketers
 - web3.reviews — review site for web3 products/services
