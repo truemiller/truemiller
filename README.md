@@ -18,7 +18,6 @@ full-stack software engineer
 - [Minting.tools](https://minting.tools) — no-code ERC20 token builder/deployer (react, bootstrap)
 - [Exchanges.gg](https://exchanges.gg) — programmatic crypto-exchange review site (nextjs, tailwind)
 - [Convert.my](https://convert.my) - free file converters, client-side (nextjs, tailwind)
-- [Discord.monster](https://discord.monster) - (nextjs, tailwind, wasm)
 
 **some open-sourced repos i built**
 
