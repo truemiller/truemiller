@@ -13,7 +13,6 @@ full-stack software engineer
 **some side projects**
 
 - [Truemiller.com](https://truemiller.com) - my homepage .. (nextjs, framer motion, tailwind)
-- [RPC.info](https://rpc.info) — blockchain RPC aggregator (nextjs, shadcn, tailwind)
 - [Chain.compare](https://chain.compare) — programmatic blockchain review/comparison site (nextjs, shadcn, tailwind)
 - [Minting.tools](https://minting.tools) — no-code ERC20 token builder/deployer (react, bootstrap)
 - [Exchanges.gg](https://exchanges.gg) — programmatic crypto-exchange review site (nextjs, tailwind)
@@ -35,3 +34,6 @@ i've quite a few projects i'd love to share, mostly web3 based, will release ove
 - IM.tools — Free tools for internet marketers
 - web3.reviews — review site for web3 products/services
 - ... quite a few others, but, y'know ...
+
+**projects i've sold**
+- [RPC.info](https://rpc.info) — blockchain RPC aggregator (nextjs, shadcn, tailwind, viem)
