@@ -12,9 +12,7 @@ full-stack software engineer
 **some side projects**
 
 - [Chain.compare](https://chain.compare) — programmatic blockchain review/comparison site (nextjs, shadcn, tailwind)
-- [Minting.tools](https://minting.tools) — no-code ERC20 token builder/deployer (react, bootstrap)
 - [Exchanges.gg](https://exchanges.gg) — programmatic crypto-exchange review site (nextjs, tailwind)
-- [Convert.my](https://convert.my) - free file converters, client-side (nextjs, tailwind)
 
 **some open-sourced repos i built**
 
