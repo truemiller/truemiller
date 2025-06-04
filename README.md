@@ -24,5 +24,3 @@ full-stack software engineer
 - [Mintable NFT contract with fees](https://github.com/truemiller/nft-contract-with-minting) — sell NFTs, on-chain (solidity, hardhat)
 - [Backtesting.py strategies](https://github.com/truemiller/python-backtesting) — backtesting some trading strategies on ByBit spot OHLCV data (Python)
 - [more ...](https://github.com/truemiller?page=1&tab=repositories)
-
-**projects sold**
