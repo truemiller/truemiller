@@ -5,10 +5,10 @@ full-stack software engineer
 **some professional contributions**
 
 - [Olas Pearl](https://olas.network/operate) - desktop app, runs AI agents, earns crypto incentive rewards (nextjs, electron, antd, tenderly)
-- [Autonolas](https://olas.network) - frontend sites, dApps, AI video generator, Pearl (above)
-- [**Avalanche** Core](https://core.app) - Avalanche blockchains' 'hub' app, portfolio aggregator, .etc (react, viem, mui, sentry, datadog)
-- [Avalanche Subnets Explorer](https://subnets.avax.network/) - Explorer for Avalanche's subnets (react, viem, mui, sentry, datadog)
-- [ElkDex V2](https://elk.finance) - Uniswap fork, cross-chain bridge protocol (react, uniswap sdk, hardhat)
+- [Autonolas (Valory)](https://olas.network) - frontend sites, dApps, AI video generator, Pearl (above)
+- [Core (Ava Labs)](https://core.app) - Avalanche blockchains' 'hub' app, portfolio aggregator, .etc (react, viem, mui, sentry, datadog)
+- [Avalanche Subnets Explorer (Ava Labs)](https://subnets.avax.network/) - Explorer for Avalanche's subnets (react, viem, mui, sentry, datadog)
+- [ElkDex V2 (Elk Finance)](https://elk.finance) - Uniswap fork, cross-chain bridge protocol (react, uniswap sdk, hardhat)
 
 **some side projects**
 
