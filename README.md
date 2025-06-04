@@ -14,6 +14,7 @@ full-stack software engineer
 
 - [Chain.compare](https://chain.compare) — programmatic blockchain review/comparison site (nextjs, shadcn, tailwind)
 - [Exchanges.gg](https://exchanges.gg) — programmatic crypto-exchange review site (nextjs, tailwind)
+- [GasFees.now](https://gasfees.now) — simple website that monitors tx gas prices across numerous EVM blockchains
 
 **some open-sourced repos i built**
 
