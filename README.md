@@ -12,6 +12,7 @@ full-stack software engineer
 
 **some side projects**
 
+- [RPC.info (sold)](https://rpc.info) — blockchain RPC aggregator (nextjs, shadcn, tailwind, viem)
 - [Chain.compare](https://chain.compare) — programmatic blockchain review/comparison site (nextjs, shadcn, tailwind)
 - [Exchanges.gg](https://exchanges.gg) — programmatic crypto-exchange review site (nextjs, tailwind)
 - [GasFees.now](https://gasfees.now) — simple website that monitors tx gas prices across numerous EVM blockchains
@@ -25,4 +26,3 @@ full-stack software engineer
 - [more ...](https://github.com/truemiller?page=1&tab=repositories)
 
 **projects sold**
-- [RPC.info](https://rpc.info) — blockchain RPC aggregator (nextjs, shadcn, tailwind, viem)
