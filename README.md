@@ -17,7 +17,7 @@ full-stack software engineer
 - [Exchanges.gg](https://exchanges.gg) — programmatic crypto-exchange review site (nextjs, tailwind)
 - [GasFees.now](https://gasfees.now) — simple website that monitors tx gas prices across numerous EVM blockchains
 
-**some open-sourced repos i built**
+**some open-sourced repos**
 
 - [CoinGuesser](https://github.com/truemiller/coinguesser) — basic crypto logo guessing game (nextjs)
 - [LP Zapper](https://github.com/truemiller/lp-zapper) — convert native Ether to Uniswap V2 LP (solidity)
