@@ -1,8 +1,6 @@
 # truemiller
 
-[linkedin](https://linkedin.com/in/trmlr) | [x](https://x.com/truemiller_com)
-
-full-stack software engineer
+[linkedin](https://linkedin.com/in/trmlr)
 
 **some professional contributions**
 
